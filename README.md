@@ -4,7 +4,7 @@ Authentication module for the Proco platform, built with TypeScript.
 
 ## Overview
 
-This repository handles user authentication and login flows for [procohq.com](https://procohq.com). Built as part of Proco's financial infrastructure for AI agents.
+This repository handles user authentication and login flows for procohq.com. Built as part of Proco's healthtech platform — the intersection of health & technology.
 
 ## Tech Stack
 
@@ -13,6 +13,5 @@ This repository handles user authentication and login flows for [procohq.com](ht
 
 ## Related
 
-- [proco-mcp](https://github.com/Johnnymeagher1991/proco-mcp) — MCP server for AI agent financial tools
-- [proco-sdk](https://github.com/Johnnymeagher1991/proco-sdk) — TypeScript SDK for agent wallets, payments, and policies
-- [proco-agent-skill](https://github.com/Johnnymeagher1991/proco-agent-skill) — drop-in financial tools for LangChain, AutoGen, LlamaIndex, and CrewAI
+- [procohq.com](https://procohq.com) — Proco marketing site
+- [procohq/.github](https://github.com/procohq/.github) — Proco organisation profile
